@@ -57,6 +57,14 @@ myportfolio/
 └── package.json
 
 
+📌 API Endpoints
+Visit http://localhost:5000/ → 🚀 Welcome Likhitha! Your Portfolio API is running.
+
+Visit http://localhost:5000/api/health → { "message": "API is running" }
+
+Visit http://localhost:5000/api/portfolio → Portfolio details
+
+Visit http://localhost:5000/api/portfolio/projects → Projects list
 
 ---
 
